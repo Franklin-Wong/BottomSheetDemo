@@ -1,2 +1,3 @@
 rootProject.name = "BottomSheetDemo"
 include ':app'
+include ':library'
